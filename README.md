@@ -1,3 +1,1 @@
-# site_blog_without-database
-# -site_blog_without-database
-# site_blog_without_database
+a simple website using html/css/js/bootstrap, plus a simple blog without a database using Grav framework
